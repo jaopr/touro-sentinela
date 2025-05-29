@@ -1,0 +1,10 @@
+{
+  "functions": [
+    "itsec_lockout",
+    "itsec_log_event"
+  ],
+  "files": [
+    "core/modules/lockout.php",
+    "core/lib/log.php"
+  ]
+}
